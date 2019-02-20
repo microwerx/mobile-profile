@@ -1,0 +1,17 @@
+XTerm.vt100.faceName: PragmataPro:size=12:antialias=true
+XTerm.vt100.geometry: 130x30
+
+! special
+XTerm*foreground:   #c5c8c6
+XTerm*background:   #1d1f21
+XTerm*cursorColor:  #c5c8c6
+
+XClock*foreground: #00ff00
+XClock*background: #7f7f7f
+XClock*geometry:   256x256
+XClock.Color.majorColor: rgba:00/ff/00/7f
+XClock.Color.minorColor: rgba:ff/00/00/7f
+XClock.Color.hourColor:  rgba:00/ff/00/7f
+XClock.Color.minuteColor:rgba:ff/00/00/7f
+XClock.Color.secondColor:rgba:00/00/ff/7f
+
